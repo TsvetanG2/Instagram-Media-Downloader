@@ -23,6 +23,10 @@ A Selenium-based wrapper for downloading photos and videos from public Instagram
 
 >  **Disclaimer:** Use responsibly and in accordance with [Instagram's Terms of Service](https://help.instagram.com/581066165581870) and applicable laws. This tool is intended for personal and research use only.
 
+# Design / UI / Screenshot
+
+<img width="686" height="672" alt="Screenshot 2026-07-04 030039" src="https://github.com/user-attachments/assets/f67b47cf-97fa-480d-b3b4-864529fb0ffd" />
+
 ## Method: Selenium + Edge (recommended)
 
 **File:** `scraper_selenium.py`
