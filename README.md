@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/Version-0.0.2-orange.svg)
 [![Download](https://img.shields.io/badge/Download_Installer-darkgreen.svg)](https://github.com/TsvetanG2/InstagramPostScrapper/raw/refs/heads/main/dist_installer/InstagramPostScrapperSetup_0.0.2v.exe)
 
-# Latest Update 0.0.2v:
+# Latest Update 0.0.1v:
 - New method _is_challenge_page() — more reliable recognition of captcha/challenge pages through URL checks + DOM selectors (instead of simply searching the page source)
 - Human-like scrolling — instead of directly scrolling to the bottom:
 - Scrolls in random steps (50-90% of viewport)
